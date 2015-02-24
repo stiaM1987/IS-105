@@ -1,0 +1,25 @@
+-----LAB 4 REFLEKSJON-----
+Steffen Vetrhus, Stian Mønsted og Steven Hicks
+
+For å løse denne oppgaven valgte vi å få kurset på udacity.com.
+Under kurset fikk vi oppgaver om å skrive egne forslag til løsning på
+forskjellige oppgaver, det er disse vi har lagt med under mappen "Own answer".
+
+Vi brukte funksjons strukuren beskrevet i LAB 4 oppgaven og sammen med hintene
+gitt gjennom udacity kurset ga det oss god innblikk i hvordan vi skal gå frem
+for å løse problemer i python.a
+
+Når vi kjørte timetesten fikk vi dette svaret:
+
+straight:		0.519338130951
+straight_udacity:	0.914330005646
+flush:			1.93381500244
+flush_udacity:		2.14352107048
+
+Som vi ser på tallene tar udacity's løsning nesten to ganger så lang tid enn vår
+løsning. Vi tror dette har noe med at max og min funksjonene som blir kalt,
+ettersom disse funskjoene leter i listen etter størst og minst blir disse O(n)
+ifølge "Big O notation".
+
+Under mappen "Udacity's answer" ligger coden som udacity's løsningsforslag på 
+poker modulen.
