@@ -1,0 +1,88 @@
+Oppgave 1
+
+Det mest grunnleggende i Ti-tallsystemet er at verdiene blir
+representert med symboler fra 0 til 9.
+
+1. Det Ti-tallsystemet er et tallsystem med grunntallet ti.
+
+2. Det moderne titallsystemet kalles for et posisjonssystem,
+der både sifrenes posisjon og verdi er av betydning.
+
+1827 inneholder følgende posisjoner:
+7 er på enerplassen, 2 er på tierplassen, 8 er på hundreplassen, og 1 er på tusenerplassen.
+
+3. Titallssystemmet bygger på tre ideer:
+- Ideen om at tallets posisjon har en betydning.
+- Ideen om tallsymbolene.
+- Ideen om 0 som et tegn for den tomme plassen.
+
+4. Å mulitiplisere, subtrahere, dividere og addere er svært vanlig praksis med det
+desimale tallsystemet, og det desimale tallsystemet er derfor svært egnet til å regne med.
+
+Det romerske tallsystemet:
+Det mest grunnleggende i det romerske tallsystemet er at verdiene bli representert ved hjelp av symboler:
+I = 1
+V = 5
+X = 10
+L = 50
+C = 100
+D = 500
+M = 1000
+
+I dette tallsystemet finnes det ingen symbol for 0.
+Videre finnes det noen retningslinjer for hvordan man skriver tall på det romerske tallsystemet:
+1. Verdien av symbolene blir delt opp og lagt sammen.
+
+Symbolene MDCLXVI deler vi opp og adderer:
+M + D + C + L + X + V + I = 1000(M) + 500(D) + 100(C) + 50(L) + 10(X) + 5(V) + 1(I) = 1666
+
+2. Hvis et symbol med en lavere verdi står til venstre for et symbol med høyere
+verdi blir den lavere verdien trukket fra den høyere verdien.
+
+Symbolene IVXLCDM deler vi opp og subtraherer
+1(I) - 5(V) - 10(X) - 50(L) - 100(C) - 500(D) - 1000(M) = 334
+I dette tilfellet må vi lese symbolene fra høyre mot venstre
+
+3. Skriv tallene med så få symboler som mulig. Det vil si at en skal prøve å bruke
+symbol med høyest verdi som mulig.
+
+I stedet for å skrive 5 på denne måten: IIIII
+skriver man i stedet 5 på denne måten: V
+
+4. Det er ikke vanlig praksis å dividere og multiplisere med det romerske tallsystemet.
+
+5. Symbolene i det romerske tallsystemet skrives alltid med store tegn. 
+
+Oppgave 2
+
+Grunnleggende systeminformasjon for systemet som testene har blitt utført på:
+
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=14.04
+DISTRIB_CODENAME=trusty
+DISTRIB_DESCRIPTION="Ubuntu 14.04.2 LTS"
+
+Linux version 3.13.0-45-generic (buildd@kissel) (gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1) ) #74-Ubuntu SMP Tue Jan 13 19:37:48 UTC 2015
+
+Linux stian-VirtualBox 3.13.0-45-generic #74-Ubuntu SMP Tue Jan 13 19:37:48 UTC 2015 i686 i686 i686 GNU/Linux
+
+Linux 3.13.0-45-generic i686
+
+Intel(R) Core(TM) i7-2700K CPU @ 4.50GHz
+****************************************
+
+Kilder:
+http://no.wikipedia.org/wiki/Bin%C3%A6rt_tallsystem
+http://no.wikipedia.org/wiki/Titallsystemet
+http://no.wikipedia.org/wiki/Romertall
+http://turner.faculty.swau.edu/mathematics/materialslibrary/roman/
+http://www.diveintopython.net/
+http://code.activestate.com/
+
+
+
+
+
+
+
+
